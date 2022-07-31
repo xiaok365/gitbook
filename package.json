@@ -1,0 +1,25 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "**专注计算机算法和数学等知识，以及一些生活中的应用场景，和大家一起用科学的眼光看世界**",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-mathjax": "^2.0.0",
+    "mathjax": "^2.7.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyle-Wilson1/gitbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyle-Wilson1/gitbook/issues"
+  },
+  "homepage": "https://github.com/Kyle-Wilson1/gitbook#readme"
+}
