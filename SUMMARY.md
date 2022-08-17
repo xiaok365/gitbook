@@ -38,6 +38,7 @@
     * [树状数组](algorithm/2022/5/树状数组.md)
     * [树状数组的应用](algorithm/2022/7/树状数组应用.md)
     * [棋盘分割](algorithm/2022/7/棋盘分割.md)
+    * [硬币翻转](algorithm/2022/8/硬币翻转.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
